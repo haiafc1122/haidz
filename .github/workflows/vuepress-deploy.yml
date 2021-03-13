@@ -14,4 +14,4 @@ jobs:
         TARGET_REPO: haiafc1122/haidz
         TARGET_BRANCH: gh_pages
         BUILD_SCRIPT: yarn && yarn build
-        BUILD_DIR: public/
+        BUILD_DIR: docs/

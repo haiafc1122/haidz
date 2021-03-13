@@ -1,0 +1,20 @@
+{
+  "name": "new_my_blog",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": "Haidz",
+  "scripts": {
+    "dev": "vuepress dev . --open --host \"localhost\"",
+    "build": "vuepress build ."
+  },
+  "devDependencies": {
+    "vuepress": "1.7.1",
+    "vuepress-theme-reco": "1.6.1"
+  },
+  "description": "blog's",
+  "dependencies": {
+    "@vuepress-reco/vuepress-plugin-kan-ban-niang": "^1.0.5",
+    "@vuepress-reco/vuepress-plugin-pagation": "^1.6.0",
+    "@vuepress-reco/vuepress-plugin-rss": "^1.0.2"
+  }
+}

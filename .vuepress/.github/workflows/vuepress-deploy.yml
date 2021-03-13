@@ -14,4 +14,4 @@ jobs:
         TARGET_REPO: haiafc1122/haiddz.github.io
         TARGET_BRANCH: master
         BUILD_SCRIPT: yarn && yarn build
-        BUILD_DIR: new_blog/.vuepress/dist/
+        BUILD_DIR: public/

@@ -1,5 +1,5 @@
 ---
-title: vuepress-theme-reco
+title: Haidz
 date: 2019-04-09
 ---
 

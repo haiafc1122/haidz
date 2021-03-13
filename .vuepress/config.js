@@ -1,12 +1,14 @@
 module.exports = {
   "title": "Hải dz",
   "description": "viết nhố nhăng tý",
-  "dest": "public",
+  "dest": "docs",
+  "base": "/haidz/",
   "head": [
     [
       "link",
       {
         "rel": "icon",
+        "type": "image/png",
         "href": "/favicon.png"
       }
     ],
@@ -49,8 +51,8 @@ module.exports = {
       }
     ],
     "sidebar": {
-      "/docs/theme-reco/": [
-        "",
+      "/theme-reco/": [
+        "README",
         "theme",
         "plugin",
         "api"

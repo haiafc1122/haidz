@@ -44,8 +44,13 @@ module.exports = {
         "items": [
           {
             "text": "GitHub",
-            "link": "https://github.com/recoluan",
+            "link": "https://github.com/haiafc1122",
             "icon": "reco-github"
+          },
+          {
+            "text": "Facebook",
+            "link": "https://www.facebook.com/hainx.jp",
+            "icon": "reco-facebook"
           }
         ]
       }
@@ -72,8 +77,8 @@ module.exports = {
     "friendLink": [
       {
         "title": "test",
-        "desc": "Enjoy when you can, and endure when you must.",
-        "email": "1156743527@qq.com",
+        "desc": "test desc",
+        "email": "hainx.hedspi@gmail.com",
         "link": "#"
       }
     ],
